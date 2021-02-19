@@ -12,12 +12,12 @@ main {
 }
 
 ::selection {
-  background: #d3869b;
+  background: #44475a;
 }
 
 body {
-  background: #282828;
-  color:      #ebdbb2;
+  background: #282a36;
+  color:      #f8f8f2;
 }
 
 pre {
@@ -26,17 +26,24 @@ pre {
   border: 0;
 }
 
-a, a:active, a:visited {
-  color: #b16286;
-  background-color: #1d2021;
+a:active, a:visited {
+  color: #bd93f9;
+  background-color: #44475a;
 }
 
+a {
+  color: #8be9fd;
+}
+
+
 h1, h2, h3, h4, h5 {
+  color: #50fa7b;
   margin-bottom: .1rem;
 }
 
+
 blockquote {
-  border-left: 1px solid #bdae93;
+  border-left: 1px solid #6272a4;
   margin: 0.5em 10px;
   padding: 0.5em 10px;
 }
