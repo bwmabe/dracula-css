@@ -52,6 +52,13 @@ footer {
   align: center;
 }
 
+/******************************************************************************
+ * Commented out until I can figure out a way to add a light mode to dracula
+ * that I like :c
+ * 
+ * Sorry all of the 3 people that like light mode
+ *****************************************************************************/
+/*************************************
 @media (prefers-color-scheme: light) {
     body {
         background: #fbf1c7;
@@ -79,3 +86,4 @@ footer {
         padding: 0.5em 10px;
     }
 }
+*************************************/

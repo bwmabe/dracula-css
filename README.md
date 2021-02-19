@@ -1,7 +1,7 @@
 # dracula-css
 
 This is a CSS file that I've forked from Xe's really neat 
-[gruvbox-css][gruvbox-css] theme that xe has been working on for a few years 
+[gruvbox-css][gruvboxcss] theme that xe has been working on for a few years 
 off and on. It is a simple CSS theme that emulates the [Dracula][dracula] theme.
 
 ## Example Screenshot
