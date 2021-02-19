@@ -2,9 +2,7 @@
 
 This is a CSS file that I've forked from Xe's really neat 
 [gruvbox-css][gruvbox-css] theme that xe has been working on for a few years 
-off and on. It is a simple CSS theme that emulates [Dracula][dracula] with
-automatic support for light mode using the 
-[light mode CSS media query][darklightmode].
+off and on. It is a simple CSS theme that emulates the [Dracula][dracula] theme.
 
 ## Example Screenshot
 
@@ -27,7 +25,7 @@ Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](ht
 Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https://draculatheme.com/static/img/color-boxes/red.png)
 Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://draculatheme.com/static/img/color-boxes/yellow.png)
 
-Borrowed from [the main Dracula Theme Repo][dracula-repo].
+Borrowed from [the main Dracula Theme Repo][dracularepo].
 
 As all the parent projects are MIT Licensed, this project is also MIT Licensed. 
 
@@ -49,6 +47,5 @@ Test image is from [placekitten](https://placekitten.com).
 [dracularepo]: https://www.github.com/dracula/dracula-theme
 [gruvboxcss]: https://www.github.com/xe/gruvbox-css
 [gruvbox]: https://www.github.com/morhetz/gruvbox
-[darklightmode]: https://css-tricks.com/dark-modes-with-css/
 [kitten]: https://flickr.com/photos/caseydavid/
 
