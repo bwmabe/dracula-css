@@ -32,12 +32,15 @@ Borrowed from [the main Dracula Theme Repo][dracula-repo].
 As all the parent projects are MIT Licensed, this project is also MIT Licensed. 
 
 [Dracula Theme][dracula] © Dracula Theme
+
 [Gruvbox][gruvbox] © morhetz
+
 [gruvbox-css][gruvboxcss] © Xe
 
 Test image is from [placekitten](https://placekitten.com).
 
 [placekitten](https://placekitten.com) © Mark James
+
 [Kitten Image][kitten] © Casey David
 
 
